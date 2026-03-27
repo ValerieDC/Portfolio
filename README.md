@@ -25,7 +25,8 @@ Interested in opportunities where I can contribute, learn fast, and grow profess
 https://github.com/ValerieDC/video-game-sales-dashboard
 ### 2. Dental Clinic Database Design  
 https://github.com/ValerieDC/dental-clinic-database
-### 3. Data Cleaning with SQL  
+### 3. Data Cleaning with SQL
+https://github.com/ValerieDC/data-cleaning-sql
 
 ## Contact
 
