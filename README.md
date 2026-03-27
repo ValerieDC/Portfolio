@@ -21,7 +21,8 @@ Interested in opportunities where I can contribute, learn fast, and grow profess
 
 ## Projects
 
-### 1. Sales Analysis Dashboard  
+### 1. Video Game Sales Dashboard  
+https://github.com/ValerieDC/video-game-sales-dashboard
 ### 2. TurismoRaíces Database Project  
 ### 3. Data Cleaning with SQL  
 
